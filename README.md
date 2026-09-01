@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1280" height="800" alt="Veloura banner" src="https://github.com/user-attachments/assets/ae3ff862-eb1c-4c92-996c-60a6eab084e2" />
 <img width="1280" height="800" alt="Linkedin-Feature (1)" src="https://github.com/user-attachments/assets/ae3ff862-eb1c-4c92-996c-60a6eab084e2" />
 
 
@@ -8,16 +9,16 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-AD8440?style=for-the-badge&logo=netlify&logoColor=white)](https://idyllic-sfogliatella-cf2330.netlify.app)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-jewellery--landing--page-17120D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha/jewellery-landing-page)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,css" alt="React, Vite, Tailwind CSS, JavaScript, CSS3" />
 
 <br/>
+<br/>
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)](https://tailwindcss.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://netlify.com)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-AD8440?style=for-the-badge&logo=netlify&logoColor=white)](https://idyllic-sfogliatella-cf2330.netlify.app)
+[![GitHub Repo](https://img.shields.io/badge/Repository-View%20Code-17120D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha/jewellery-landing-page)
 
 </div>
 
@@ -28,12 +29,6 @@
 **Veloura** is a luxury jewellery landing page built as a frontend portfolio project. It replicates a real-world jewellery brand website with professional UI, interactive shopping features, and a polished design system using gold accent colors, serif typography, and smooth animations.
 
 This jewellery landing page is ideal as a reference project for anyone building a jewellery store website, ecommerce UI, or luxury brand landing page with React and Tailwind CSS.
-
----
-
-## Live Preview
-
-🌐 **[https://idyllic-sfogliatella-cf2330.netlify.app](https://idyllic-sfogliatella-cf2330.netlify.app)**
 
 ---
 
@@ -78,16 +73,15 @@ This jewellery landing page is ideal as a reference project for anyone building 
 
 ---
 
-## Tech Stack
+## Dependencies
 
-| Technology | Role |
-|---|---|
-| React | Component-based UI |
-| Vite | Build tool and dev server |
-| Tailwind CSS | Utility-first styling |
-| JavaScript | Interactivity and logic |
-| CSS3 | Custom animations and layout |
-| Ionicons | UI icon library |
+Beyond the core stack above, the project also uses:
+
+| Dependency | Type | Usage |
+|---|---|---|
+| [Ionicons](https://ionic.io/ionicons) | Icon library (CDN) | UI icons across header, cards, and drawers |
+
+No other runtime dependencies are required — everything else is handled by React, Vite, and Tailwind CSS.
 
 ---
 
@@ -120,7 +114,7 @@ This jewellery landing page is ideal as a reference project for anyone building 
 
 ---
 
-## Getting Started
+## Getting Started (Run Locally)
 
 ```bash
 # Clone the repository
@@ -141,7 +135,7 @@ npm run build    # Production build
 npm run preview  # Preview the production build
 ```
 
-Add Ionicons before the closing `</body>` tag in `index.html`:
+Ionicons is loaded via CDN — make sure this is present before the closing `</body>` tag in `index.html`:
 
 ```html
 <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -187,3 +181,22 @@ jewellery-landing-page/
 ## Author
 
 **Nobonita Saha Niha** — Frontend Developer
+
+- GitHub: [@NSniha](https://github.com/NSniha)
+
+---
+
+## License
+
+© Nobonita Saha Niha. All rights reserved.
+
+This project is shared publicly for portfolio and reference purposes only. Copying, redistributing, reselling, or using it (in whole or in part) for commercial purposes is **not permitted** without prior written consent.
+
+---
+
+<div align="center">
+
+⭐ If you find this project useful, consider giving it a star — it helps others discover it too.
+
+</div>
+
