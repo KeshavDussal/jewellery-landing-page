@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1280" height="800" alt="Veloura banner" src="https://github.com/user-attachments/assets/ae3ff862-eb1c-4c92-996c-60a6eab084e2" />
+<img width="1280" height="800" alt="Jewellery Landing Page" src="https://github.com/user-attachments/assets/ae3ff862-eb1c-4c92-996c-60a6eab084e2" />
 
 
 <h1>Veloura — Luxury Jewellery Landing Page</h1>
