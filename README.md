@@ -1,6 +1,5 @@
 <div align="center">
-<img width="1280" height="800" alt="Jewellery Landing Page" src="https://github.com/user-attachments/assets/ae3ff862-eb1c-4c92-996c-60a6eab084e2" />
-
+<img width="1280" height="800" alt="Veloura banner" src="https://github.com/user-attachments/assets/ae3ff862-eb1c-4c92-996c-60a6eab084e2" />
 
 <h1>Veloura — Luxury Jewellery Landing Page</h1>
 
@@ -8,7 +7,11 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,css" alt="React, Vite, Tailwind CSS, JavaScript, CSS3" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="45" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" height="45" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45" />
 
 <br/>
 <br/>
@@ -198,4 +201,3 @@ This project is shared publicly for portfolio and reference purposes only. Copyi
 ⭐ If you find this project useful, consider giving it a star — it helps others discover it too.
 
 </div>
-
